@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheepeeji.zhuangyan.cn/sitemap.xml
